@@ -69,4 +69,4 @@ and building systems that behave correctly under real-world constraints.
 ## 📫 Connect
 
 - GitHub: here 🙂
-- LeetCode / CodeChef: linked on profile
+- mail: pankajrana@duck.com
