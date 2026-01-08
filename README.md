@@ -1,4 +1,4 @@
-# Hi 👋, I'm a Computer Science Student
+# Hi there 👋, 
 
 I’m a **problem-solving focused developer** with a strong interest in
 **backend systems, algorithms, and scalable software design**.
